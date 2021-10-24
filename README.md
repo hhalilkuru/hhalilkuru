@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Java, Kotlin, Swift**
 
-- 👨‍💻 My projects and experiences are available at [halilkuru.com/cv](wwww.halilkuru.com/cv)
-
 - 📫 How to reach me **hhalilkuru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
