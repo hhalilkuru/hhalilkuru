@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Halil Kuru</h1>
-<h3 align="center">A Android developer from India</h3>
+<h3 align="center">A Android developer from Turkey</h3>
 
 - 🌱 I’m currently learning **Java, Kotlin, Swift**
 
