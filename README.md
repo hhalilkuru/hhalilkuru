@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Halil Kuru</h1>
 <h3 align="center"> Android developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Java, Kotlin, Swift**
+- 🌱 I’m currently learning **Java, Kotlin**
 
 - 📫 How to reach me **hhalilkuru@gmail.com**
 
