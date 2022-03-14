@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
-- 📫 How to reach me **hhalilkuru@gmail.com**
+- 📫 How to reach me : [E-Mail Addres](mailto:hhalilkuru@gmail.com?subject=[hey!%20github])
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
