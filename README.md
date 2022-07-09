@@ -2,11 +2,22 @@
 
 - 🌱 I’m currently learning **Java, Kotlin**
 
-- 📫 How to reach me : [E-Mail Addres](mailto:hhalilkuru@gmail.com?subject=[hey!%20github])
+- 📫 How to reach me : [E-Mail Addres 📧](mailto:hhalilkuru@gmail.com?subject=[hey!%20github])
+
 
 
 
 <h3 align="left">Connect with me:</h3>
+</a>
+<a href="https://linkedin.com/in/hhalilkuru" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+
+</a>
+<a href="https://instagram.com/hhalilkuru" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+
 <p align="left">
 <a href="https://www.linkedin.com/in/hhalilkuru/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hhalilkuru/" height="30" width="40" /></a>
 <a href="https://instagram.com/hhalilkuru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hhalilkuru" height="30" width="40" /></a>
