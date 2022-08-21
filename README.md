@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Halil Kuru</h1>
 
-- 🌱 I’m currently learning **Java, Kotlin**
+- 🌱 I’m currently learning **Java, Kotlin, Swift**
 
 - 📫 How to reach me : [E-Mail Addres 📧](mailto:hhalilkuru@gmail.com?subject=[hey!%20github])
 
-- 📄 Know about my experiences / Resume [www.halilkuru.com](https://www.halilkuru.com/)
+- 📄 Know about my experiences / Resume : [www.halilkuru.com](https://www.halilkuru.com/)
 
 
 
