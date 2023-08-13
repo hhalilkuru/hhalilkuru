@@ -4,9 +4,6 @@
 
 - 📫 How to reach me : [E-Mail Addres 📧](mailto:hhalilkuru@gmail.com?subject=[hey!%20github])
 
-- 📄 Know about my experiences / Resume : [www.halilkuru.com](https://www.halilkuru.com/)
-
-
 
 
 <h3 align="left">Connect with me:</h3>
